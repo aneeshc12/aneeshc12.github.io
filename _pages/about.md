@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS PhD student at CRΔL, UVA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Charlottesville, Virginia</p>
@@ -30,9 +30,9 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a first-year PhD student in the Department of Computer Science at the University of Virginia, advised by Prof. Rohan Chandra. My work revolves around trying to close the sim2real gap with 3D Gaussian-based digital twins, complete with intelligent dynamic agents, physics-based object interaction and a focus on scaling up data generation. In the long term I'd like to design robotic agents that can function alongside humans, extend their understanding of the world around them and develop the One Representation to Embed them All.
+Hey! I'm a first-year PhD student in the [Department of Computer Science](https://engineering.virginia.edu/department/computer-science) at the University of Virginia, advised by [Dr. Rohan Chandra](https://cral-uva.github.io/people/rohan_chandra/index.html) at [CRΔL](https://cral-uva.github.io/). My work at UVA revolves around trying to **close the sim2real gap with 3D Gaussian-based digital twins**, complete with **intelligent dynamic agents**, **physics-based object interaction** and a focus on **scaling up data generation**. In the long term I'd like to design robotic agents that can function alongside humans, extend their understanding of the world around them and develop the One Representation to Embed them All.
 
-I got my MS by Research and Bachelors in Computer Science at IIIT-H advised by Prof. Madhava Krishna as part of the Robotics Research Center. My Master's thesis was about object instance re-identification and using it to perfom robot localization.
+I got my MS by Research and Bachelors in Computer Science at IIIT-H advised by [Dr. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) as part of the [Robotics Research Center](https://robotics.iiit.ac.in/). My Master's thesis was about object instance re-identification and using it to perfom robot localization.
 
 Feel free to reach out to me to connect, collaborate, or just to say hi!
 
