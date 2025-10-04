@@ -208,6 +208,8 @@ exclude:
   - _pages/teaching.md
   - _pages/people.md
   - _includes/dropdown.md
+  # remove projects for now
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
