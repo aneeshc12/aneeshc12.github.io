@@ -6,7 +6,7 @@ subtitle: CS PhD student at CRΔL, UVA
 
 profile:
   align: right
-  image: profile_pic.png
+  image: new_pfp.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Charlottesville, Virginia</p>
