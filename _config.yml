@@ -199,8 +199,8 @@ exclude:
   - _layouts/archive.liquid
   - _plugins/external_posts.rb
   # remove the news related lines if you enable news functionality
-  - _news/
-  - _includes.news.liquid
+  # - _news/
+  # - _includes.news.liquid
   # remove repository related pages
   - _pages/repositories.md
   - _includes/repository
