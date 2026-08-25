@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Paper accepted at AIR 2025
 date: 2024-12-10 09:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

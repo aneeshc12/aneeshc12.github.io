@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Started PhD at UVA
 date: 2024-09-01 11:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
