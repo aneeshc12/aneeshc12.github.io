@@ -1,11 +1,10 @@
 ---
 layout: post
-title: reflections one year in
+title: Reflections one year in
 date: 2026-08-22 12:00:00
 description: reflecting on a year of PhD work, gaussian splatting, and what I've learned
 tags: phd research gaussian-splatting reflection
 # categories: 
-thumbnail: assets/img/phd-year-in-review/thumbnail.jpg
 ---
 
 ## Introduction
