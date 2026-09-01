@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "post-reflections-one-year-in",
         
-          title: "reflections one year in",
+          title: "Reflections one year in",
         
         description: "reflecting on a year of PhD work, gaussian splatting, and what I&#39;ve learned",
         section: "Posts",
